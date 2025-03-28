@@ -9,7 +9,7 @@ const User = () => {
 
     return (
         <div className='details-card'>
-            <img src="/src/assets/shihab.jpg" alt="this is shihab uddin images" />
+            <img src="../assets/shihab.jpg" alt="this is shihab uddin images" />
             <h2>Shihab Uddin</h2>
             <p>@shihabuddin-dev</p>
             <button
