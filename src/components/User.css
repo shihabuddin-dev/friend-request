@@ -1,0 +1,15 @@
+img {
+    width: 220px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.details-card {
+    padding: 10px;
+    border: 2px solid salmon;
+    border-radius: 10px;
+}
+
+.sent-color {
+    background-color: salmon;
+}
